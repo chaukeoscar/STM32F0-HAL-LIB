@@ -1,4 +1,4 @@
 # UART-USB SERIAL
 
-![UART-USB Module](../Resources/1.jpg)
+![UART-USB Module](../Resource/UART-USB/1.jpeg)
 
